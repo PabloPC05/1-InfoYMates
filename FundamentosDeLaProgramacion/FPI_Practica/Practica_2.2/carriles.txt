@@ -1,0 +1,18 @@
+CLAVO 3 2 6 9
+SORPRESA 3 3 5 7
+XX
+
+Longitud de la carretera = 10
+Posicion del coche 0
+
+Solucion:
+
+|  CS SCS C|
+|A         |
+
+
+Leyenda: C -> coche; S -> sorpresa; A -> coche (automovil)
+
+Avance del coche:
+
+1 paso; 2 pasos (sorpresa); 1 se dirige hacia delante; 2 pasos (sorpresa); -1 se dirige hacia atras; 2 pasos (sorpresa); 1 se dirige hacia delante; La sorpresa le lleva a la casilla 0; 3 pasos (sorpresa); 1 se dirige hacia delante; 6 pasos; La carrera ha terminado

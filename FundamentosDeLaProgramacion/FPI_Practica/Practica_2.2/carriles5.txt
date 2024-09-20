@@ -1,0 +1,16 @@
+XX
+
+Longitud de la carretera = 5
+Posicion del coche 0
+
+Solucion:
+
+|     |
+|A    |
+
+
+Leyenda: C -> coche; S -> sorpresa; A -> coche (automovil)
+
+Avance del coche:
+
+1 paso; 1 paso; 1 paso; 1 paso; 1 paso; termina la carrera

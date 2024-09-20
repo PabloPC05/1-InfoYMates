@@ -1,0 +1,20 @@
+SORPRESA 2 12 7
+CLAVO 1 5
+CLAVO 2 15 10
+SORPRESA 3 1 9 3
+XX
+
+Longitud de la carretera = 20
+Posicion del coche 0
+
+Solucion:
+
+| S S C S SC S  C    |
+|A                   |
+
+
+Leyenda: C -> coche; S -> sorpresa; A -> coche (automovil)
+
+Avance del coche en modo depuracion;
+
+1 paso (sorpresa); -1 retrocede; 12 pasos (sorpresa); -1 retrocede; 1 (clavo); 2 turnos sin avanzar; 1 paso; 1 paso (sorpresa); 1 avanza y vuelve a la posicion cero; 30 pasos; termina

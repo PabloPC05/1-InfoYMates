@@ -1,0 +1,206 @@
+NIF del cliente: 10B
+Saldo total del cliente: 2000
+  Relacion de cuentas:
+         Numero de cuenta: 3    Saldo: 1000
+         Numero de cuenta: 5    Saldo: 1000
+
+NIF del cliente: 20A
+Saldo total del cliente: 16000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 2000
+         Numero de cuenta: 2    Saldo: 10000
+         Numero de cuenta: 3    Saldo: 4000
+
+NIF del cliente: 30C
+Saldo total del cliente: 4000
+  Relacion de cuentas:
+         Numero de cuenta: 3    Saldo: 4000
+
+NIF del cliente: 30K
+Saldo total del cliente: 39000
+  Relacion de cuentas:
+         Numero de cuenta: 4    Saldo: 25000
+         Numero de cuenta: 5    Saldo: 14000
+
+NIF del cliente: 40X
+Saldo total del cliente: 20000
+  Relacion de cuentas:
+         Numero de cuenta: 8    Saldo: 20000
+
+NIF del cliente: 40Z
+Saldo total del cliente: 50000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 20000
+         Numero de cuenta: 5    Saldo: 30000
+
+NIF del cliente: 10B
+Saldo total del cliente: 2000
+  Relacion de cuentas:
+         Numero de cuenta: 3    Saldo: 1000
+         Numero de cuenta: 5    Saldo: 1000
+
+NIF del cliente: 20A
+Saldo total del cliente: 16000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 2000
+         Numero de cuenta: 2    Saldo: 10000
+         Numero de cuenta: 3    Saldo: 4000
+
+NIF del cliente: 30K
+Saldo total del cliente: 39000
+  Relacion de cuentas:
+         Numero de cuenta: 4    Saldo: 25000
+         Numero de cuenta: 5    Saldo: 14000
+
+NIF del cliente: 40X
+Saldo total del cliente: 23000
+  Relacion de cuentas:
+         Numero de cuenta: 5    Saldo: 3000
+         Numero de cuenta: 8    Saldo: 20000
+
+NIF del cliente: 40Z
+Saldo total del cliente: 50000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 20000
+         Numero de cuenta: 5    Saldo: 30000
+
+ERROR: EL CLIENTE 40Z NO TIENE UNA CUENTA 8
+
+NIF del cliente: 10B
+Saldo total del cliente: 2000
+  Relacion de cuentas:
+         Numero de cuenta: 3    Saldo: 1000
+         Numero de cuenta: 5    Saldo: 1000
+
+NIF del cliente: 20A
+Saldo total del cliente: 16000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 2000
+         Numero de cuenta: 2    Saldo: 10000
+         Numero de cuenta: 3    Saldo: 4000
+
+NIF del cliente: 30K
+Saldo total del cliente: 40000
+  Relacion de cuentas:
+         Numero de cuenta: 4    Saldo: 25000
+         Numero de cuenta: 5    Saldo: 15000
+
+NIF del cliente: 40X
+Saldo total del cliente: 23000
+  Relacion de cuentas:
+         Numero de cuenta: 5    Saldo: 3000
+         Numero de cuenta: 8    Saldo: 20000
+
+NIF del cliente: 40Z
+Saldo total del cliente: 30000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 20000
+         Numero de cuenta: 5    Saldo: 10000
+
+NIF del cliente: 60J
+Saldo total del cliente: 3000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 3000
+
+NIF del cliente: 10B
+Saldo total del cliente: 2000
+  Relacion de cuentas:
+         Numero de cuenta: 3    Saldo: 1000
+         Numero de cuenta: 5    Saldo: 1000
+
+NIF del cliente: 20A
+Saldo total del cliente: 16000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 2000
+         Numero de cuenta: 2    Saldo: 10000
+         Numero de cuenta: 3    Saldo: 4000
+
+NIF del cliente: 30K
+Saldo total del cliente: 40000
+  Relacion de cuentas:
+         Numero de cuenta: 4    Saldo: 25000
+         Numero de cuenta: 5    Saldo: 15000
+
+NIF del cliente: 40X
+Saldo total del cliente: 23000
+  Relacion de cuentas:
+         Numero de cuenta: 5    Saldo: 3000
+         Numero de cuenta: 8    Saldo: 20000
+
+NIF del cliente: 40Z
+Saldo total del cliente: 10000
+  Relacion de cuentas:
+         Numero de cuenta: 5    Saldo: 10000
+
+NIF del cliente: 60J
+Saldo total del cliente: 3000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 3000
+
+NIF del cliente: 10B
+Saldo total del cliente: 2000
+  Relacion de cuentas:
+         Numero de cuenta: 3    Saldo: 1000
+         Numero de cuenta: 5    Saldo: 1000
+
+NIF del cliente: 20A
+Saldo total del cliente: 16000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 2000
+         Numero de cuenta: 2    Saldo: 10000
+         Numero de cuenta: 3    Saldo: 4000
+
+NIF del cliente: 30K
+Saldo total del cliente: 40000
+  Relacion de cuentas:
+         Numero de cuenta: 4    Saldo: 25000
+         Numero de cuenta: 5    Saldo: 15000
+
+NIF del cliente: 40X
+Saldo total del cliente: 23000
+  Relacion de cuentas:
+         Numero de cuenta: 5    Saldo: 3000
+         Numero de cuenta: 8    Saldo: 20000
+
+NIF del cliente: 60J
+Saldo total del cliente: 3000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 3000
+
+NIF del cliente: 10B
+Saldo total del cliente: 2000
+  Relacion de cuentas:
+         Numero de cuenta: 3    Saldo: 1000
+         Numero de cuenta: 5    Saldo: 1000
+
+NIF del cliente: 20A
+Saldo total del cliente: 16000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 2000
+         Numero de cuenta: 2    Saldo: 10000
+         Numero de cuenta: 3    Saldo: 4000
+
+NIF del cliente: 30K
+Saldo total del cliente: 40000
+  Relacion de cuentas:
+         Numero de cuenta: 4    Saldo: 25000
+         Numero de cuenta: 5    Saldo: 15000
+
+NIF del cliente: 40X
+Saldo total del cliente: 23000
+  Relacion de cuentas:
+         Numero de cuenta: 5    Saldo: 3000
+         Numero de cuenta: 8    Saldo: 20000
+
+NIF del cliente: 40Z
+Saldo total del cliente: 7000
+  Relacion de cuentas:
+         Numero de cuenta: 5    Saldo: 7000
+
+NIF del cliente: 60J
+Saldo total del cliente: 3000
+  Relacion de cuentas:
+         Numero de cuenta: 1    Saldo: 3000
+
+ERROR: NO EXISTE EL CLIENTE 27E
+

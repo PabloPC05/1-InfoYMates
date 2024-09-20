@@ -1,0 +1,11 @@
+10
+Hadoken 10 3 down right punch
+Hurricane-kick 15 3 down left kick
+Shoryuken 20 4 right down right punch
+Hurricane-kick-new 10 4 down left kick kick
+Low-Tiger-shot 20 3 down right kick
+Tiger-uppercut 25 5 right down right punch punch
+Rolling-Crystal-Flash 30 5 left left left right punch
+Flying-Barcelona-Attack 30 6 down down down up punch kick
+Flash-kick 18 5 down down down up kick
+Sonic-Boom 12 5 left left right right punch

@@ -1,0 +1,11 @@
+10
+Guile Flash-kick 5 down down down up punch
+Guile Sonic-Boom 5 left left right right kick
+Guile Flash-kick 5 down down down up kick
+Guile Sonic-Boom 5 left left right right punch
+Vega Rolling-Crystal-Flash 5 left left left right punch
+Vega Flying-Barcelona-Attack 6 down down down up punch kick
+Ryu Flash-kick 5 down down down up kick
+Guile Sonic-Boom 5 left left left right punch
+Vega Rolling-Crystal-Flash 5 left left left right punch
+Vega Flying-Barcelona-Attack 6 down down down up punch kick
